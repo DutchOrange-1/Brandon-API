@@ -4,19 +4,19 @@ A API used mainly by me and friends.
 All APIs can be accesed at http://api.brandon.net.za/
 All APIs return JSON formats. 
 # Documentation:
-## <u>/
+## <u>/<u>
 ### Parameters:
 None
 ### Return:
 Status, owner.
 
-## <u>/requests
+## <u>/requests<u>
 ### Parameters:
 None
 ### Return:
 Total requests made to API while online.
 
-## <u>/temp_upload
+## <u>/temp_upload<u>
 ### Parameters:
 |args|Value|
 |----|-----|
