@@ -4,13 +4,13 @@ A API used mainly by me and friends.
 All APIs can be accesed at http://api.brandon.net.za/
 All APIs return JSON formats. 
 # Documentation:
-## <u>/<u>
+## <ins>/</ins>
 ### Parameters:
 None
 ### Return:
 Status, owner.
 
-## <u>/requests</u>
+## <ins>/requests</ins>
 ### Parameters:
 None
 ### Return:
