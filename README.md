@@ -1,5 +1,6 @@
 # Brandon-API
-A API used mainly by me and friends. 
+An API used mainly by me and friends. 
+The username/name and token determines which database the data is uploaded to. 
 
 ## Index:
 1. [Temperature API](#Temperature)
