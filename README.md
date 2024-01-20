@@ -16,7 +16,7 @@ None
 ### Return:
 Total requests made to API while online.
 
-## <u>/temp_upload<u>
+## <ins>/temp_upload</ins>
 ### Parameters:
 |args|Value|
 |----|-----|
