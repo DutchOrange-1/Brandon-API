@@ -1,6 +1,9 @@
 # Brandon-API
 A API used mainly by me and friends. 
 
+## Index:
+1. [Temperature API](#Temperature)
+
 All APIs can be accesed at http://api.brandon.net.za/
 All APIs return JSON formats. 
 # Documentation:
@@ -16,6 +19,7 @@ None
 ### Return:
 Total requests made to API while online.
 
+# Temperature
 ## <ins>/temp_upload</ins>
 ### Parameters:
 |args|Value|
