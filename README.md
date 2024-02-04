@@ -2,6 +2,9 @@
 An API used mainly by me and friends. 
 The username/name and token determine which database the data is uploaded to. 
 
+## SSL:
+``Let's Encrypt`` Works SUPER welll, and is free. 
+
 ## Index:
 1. [Temperature API](#Temperature)
 
